@@ -16,7 +16,7 @@
         <assertj.version>3.15.0</assertj.version>
         <graal.sdk.version>19.1.0</graal.sdk.version>
         <junit.version>5.5.1</junit.version>
-        <mockito.version>2.25.1</mockito.version>
+        <mockito.version>3.3.3</mockito.version>
     </properties>
 
     <name>Scheme 4 GraalVM</name>
